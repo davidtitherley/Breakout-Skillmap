@@ -2,7 +2,7 @@
 * name: Breakout. 
 * description: Recreate the classic Breakout Arcade game in this skillmap.
 
-## Breakout
+## interface
 * name: Breakout
 * description: This skillmap will help you to create your own version of the Arcade Classic, Breakout.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
