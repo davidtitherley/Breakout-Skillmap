@@ -7,10 +7,6 @@
 * description: This skillmap will help you to create your own version of the Arcade Classic, Breakout.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-## Interface
-* name: Learn to Make a Platformer
-* description: A skillmap that takes you through how to build a platformer with multiple levels.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/learn-to-make-a-platformer.pdf
 
 ### breakout-activity1
 
@@ -30,7 +26,7 @@
 * url: https://github.com/davidtitherley/breakout-skillmap/tutorials/breakout/breakout-activity2
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity2.png
 * tags: easy, tiles
-* next: breakoutr-activity3
+* next: breakout-activity3
 
 ### breakout-activity3
 
