@@ -30,7 +30,7 @@
 * name: Breakout
 * type: tutorial
 * description: Begin by creating the bricks in our game
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity1
+* url: https://github.com/davidtitherley/breakout-skillmap/tutorials/breakout/breakout-activity1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity1.png
 * tags: easy
 * next: breakout-activity2
